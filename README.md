@@ -40,6 +40,7 @@ D:\flask\HospitalManagement> cd venv/Scripts/activate
 
 After venv is activated
 
+(venv) D:
 
 ```
 4. Install all the required libraries for the application
@@ -51,7 +52,7 @@ After venv is activated
 5. To run the code
 ```sh
 
-D:>flask run
+D:flask run
 
 ```
 6. thats it..!!
